@@ -9,17 +9,8 @@ package arreglos;
  *
  * @author estudiantes
  */
-public class Equipo {
-    Fanatico fanaticos[];
+public class Equipo {;
     String nombre;
-
-    public Equipo() {
-        for (int i=0;i<1000;i++){
-        fanaticos[i]= new Fanatico;
-    }
-    
-    
-    
-    
-    
+    Fanatico[] fanaticos= new Fanatico[1000];
+  
 }

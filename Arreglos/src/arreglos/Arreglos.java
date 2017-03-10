@@ -15,9 +15,12 @@ public class Arreglos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Equipo equipos[]= new Equipo[20];
+        Equipo[] equipos= new Equipo[20];
         
         
+    }
+
+    public Arreglos() {
     }
     
 }
